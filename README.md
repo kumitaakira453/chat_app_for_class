@@ -2,3 +2,4 @@
 
 ## branch構成
  - `first_year` : 一年目chat_app完成まで
+ - `first_year` : 2年目 1学期まで
